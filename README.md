@@ -26,7 +26,7 @@ A full demonstration of the project is available in [this video recording](#urlO
 - **JavaScript:** Adding interactivity.  
 
 ### **Backend:**  
-- **PHP** or **Django**: Handling server-side logic.  
+- **PHP** : Handling server-side logic.  
 
 ### **Database:**  
 - **MySQL:** Storing users, categories, topics, and comments.  
