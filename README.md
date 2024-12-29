@@ -9,7 +9,7 @@ A full demonstration of the project is available in [this video recording](#urlO
 
 ---
 
-## 🌟 Features  
+##  Features  
 
 - **User Authentication:** Users can register and log in securely.  
 - **Topic Creation:** Users can create discussion topics.  
@@ -18,7 +18,7 @@ A full demonstration of the project is available in [this video recording](#urlO
 
 ---
 
-## 🛠️ Technologies  
+## 🛠 Technologies  
 
 ### **Frontend:**  
 - **HTML5:** Structuring web pages.  
@@ -33,7 +33,7 @@ A full demonstration of the project is available in [this video recording](#urlO
 
 ---
 
-## 📂 Database Schema  
+##  Database Schema  
 
 ### **`utilisateurs` Table**  
 | Field           | Type          | Description             |  
